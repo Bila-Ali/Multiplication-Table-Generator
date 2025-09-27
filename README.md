@@ -14,7 +14,7 @@ This is a simple **Java Swing GUI application** that generates a multiplication 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/multiplication-table-generator.git
+   git clone https://github.com/Bila-Ali/multiplication-table-generator.git
    cd multiplication-table-generator
    ```
 

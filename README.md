@@ -21,13 +21,13 @@ This is a simple **Java Swing GUI application** that generates a multiplication 
 2. Compile the Java file:
 
    ```bash
-   javac Table2.java
+   javac Table.java
    ```
 
 3. Run the application:
 
    ```bash
-   java Table2
+   java Table
    ```
 
 ## Example
